@@ -14,4 +14,4 @@ I'm a CS undergrad exploring the exciting worlds of programming, cybersecurity, 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg"> </br>
 #### 📫 Let's Connect:
 Check out my projects and follow my learning journey! If you're interested in collaborating or even just discussing about cybersecurity, quantum computing and related tech, feel free to reach out!</br></br>
-[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/rohan~sharma/) [![Leetcode](https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg)](https://leetcode.com/u/cbJl4ONyMX/)
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/rohan~sharma/)
