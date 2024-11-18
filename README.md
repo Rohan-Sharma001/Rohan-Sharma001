@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Rohan! 👋
+I'm a CS undergrad exploring the exciting worlds of programming, cybersecurity, and quantum computing! Here’s a bit about my journey:
 
-<!--
-**Rohan-Sharma001/Rohan-Sharma001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Currently Learning:
+- Programming Languages: C++, C, Python
+- Quantum Computing: Understanding the basics of qubits, superposition, and entanglement
+- Cybersecurity: Exploring network security, cryptography, and ethical hacking
+#### 🚀 My Goals:
+- Build a strong foundation in Data Structures and Algorithms
+- Gain hands-on experience with Cybersecurity Challenges and Quantum Algorithms
+- Contribute to open-source projects and develop a portfolio of CS-focused Projects </br>
+  and more...
+#### 🛠️ Languages & Tools:
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg"> </br>
+#### 📫 Let's Connect:
+Check out my projects and follow my learning journey! If you're interested in collaborating or even just discussing about cybersecurity, quantum computing and related tech, feel free to reach out!</br></br>
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/rohan~sharma/) [![Leetcode](https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg)](https://leetcode.com/u/cbJl4ONyMX/)
